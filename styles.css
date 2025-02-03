@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+
+}
+header{
+    background-color:orange;
+    padding: 2px;
+    margin: 2px;
+    font-family: ;
+}
+.red{
+    color: red;
+    font-style:italic;
+}
+.rod{
+    background-color: gray;
+    border-radius: 120px ;
+    padding: 5px;
+    margin: 5px;
+}
+footer{
+    background-color: orange;
+    padding: 5px;
+    margin: 5px;
+    font-size: larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+a{
+    color: aliceblue;
+}
